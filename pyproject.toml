@@ -1,0 +1,23 @@
+[project]
+name = "pancakeswap-py"
+version = "0.1.3"
+description = "A concise PancakeSwap V2/V3 Python library"
+readme = "README.md"
+authors = [
+    { name = "ZHUZIOK", email = "a1349089572@gmail.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.11.7",
+    "web3>=7.12.0",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ZHUZIOK/pancakeswap-py"
+"Repository" = "https://github.com/ZHUZIOK/pancakeswap-py"
+"Bug Tracker" = "https://github.com/ZHUZIOK/pancakeswap-py/issues"
+"Documentation" = "https://github.com/ZHUZIOK/pancakeswap-py#readme"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

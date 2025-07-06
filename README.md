@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/pancankeswap_py_logo.png" alt="pancankeswap_py_logo" width="120"/>
+  <img src="https://github.com/ZHUZIOK/pancakeswap-py/blob/main/docs/images/pancankeswap_py_logo.png" alt="pancankeswap_py_logo" width="120"/>
 </p>
 
 
@@ -128,7 +128,7 @@ tx_hash = await pancakeswap_v3.auto_burn_position(
 ```
 #### 链上截图
 <div style="text-align: center;">
-    <img src="docs/images/screenshot_on_the_chain_v3.png" alt="pancankeswap_py_logo" title="pancankeswap_py_logo" style="max-width: 100%; height: auto;">
+    <img src="https://github.com/ZHUZIOK/pancakeswap-py/blob/main/docs/images/screenshot_on_the_chain_v3.png" alt="pancankeswap_py_logo" title="pancankeswap_py_logo" style="max-width: 100%; height: auto;">
 </div>
 
 ## V2 示例
@@ -215,5 +215,5 @@ tx_hash = await pancakeswap_v2.auto_decrease_liquidity(
 ```
 #### 链上截图
 <div style="text-align: center;">
-    <img src="docs/images/screenshot_on_the_chain_v2.png" alt="pancankeswap_py_logo" title="pancankeswap_py_logo" style="max-width: 100%; height: auto;">
+    <img src="https://github.com/ZHUZIOK/pancakeswap-py/blob/main/docs/images/screenshot_on_the_chain_v2.png" alt="pancankeswap_py_logo" title="pancankeswap_py_logo" style="max-width: 100%; height: auto;">
 </div>
