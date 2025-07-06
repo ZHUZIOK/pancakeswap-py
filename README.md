@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://github.com/ZHUZIOK/pancakeswap-py/blob/main/docs/images/pancankeswap_py_logo.png" alt="pancankeswap_py_logo" width="120"/>
+  <img src="https://github.com/ZHUZIOK/pancakeswap-py/blob/main/docs/images/pancankeswap_py_logo.png?raw=true" alt="pancankeswap_py_logo" width="120"/>
 </p>
 
+[![PyPI version](https://img.shields.io/pypi/v/your-package-name.svg)](https://pypi.org/project/pancakeswap-py/)
+![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
 ## pancakeswap-py  🍪🐍
 一个基于web3.py和Asyncio以及PancakeSwap V2/V3合约的Python库，包含创建池子、添加流动性、撤销流动性、查看流动性、Swap交易、WBNB/BNB转换等功能，V2/V3采用尽可能一致的语法，方便新手便捷的在BSC网络上进行DeFi操作。
@@ -128,7 +131,7 @@ tx_hash = await pancakeswap_v3.auto_burn_position(
 ```
 #### 链上截图
 <div style="text-align: center;">
-    <img src="https://github.com/ZHUZIOK/pancakeswap-py/blob/main/docs/images/screenshot_on_the_chain_v3.png" alt="pancankeswap_py_logo" title="pancankeswap_py_logo" style="max-width: 100%; height: auto;">
+    <img src="https://github.com/ZHUZIOK/pancakeswap-py/blob/main/docs/images/screenshot_on_the_chain_v3.png?raw=true" alt="pancankeswap_py_logo" title="pancankeswap_py_logo" style="max-width: 100%; height: auto;">
 </div>
 
 ## V2 示例
@@ -215,5 +218,5 @@ tx_hash = await pancakeswap_v2.auto_decrease_liquidity(
 ```
 #### 链上截图
 <div style="text-align: center;">
-    <img src="https://github.com/ZHUZIOK/pancakeswap-py/blob/main/docs/images/screenshot_on_the_chain_v2.png" alt="pancankeswap_py_logo" title="pancankeswap_py_logo" style="max-width: 100%; height: auto;">
+    <img src="https://github.com/ZHUZIOK/pancakeswap-py/blob/main/docs/images/screenshot_on_the_chain_v2.png?raw=true" alt="pancankeswap_py_logo" title="pancankeswap_py_logo" style="max-width: 100%; height: auto;">
 </div>
