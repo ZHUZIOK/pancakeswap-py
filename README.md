@@ -9,7 +9,8 @@
 ## pancakeswap-py  🍪🐍
 A Python library based on web3.py, Asyncio, and PancakeSwap V2/V3 contracts, featuring pool creation, liquidity management, liquidity removal, liquidity viewing, swap trading, WBNB/BNB conversion, and more. V2/V3 use consistent syntax as much as possible, making it convenient for beginners to perform DeFi operations on the BSC network.
 
-中文文档
+<a href="https://github.com/ZHUZIOK/pancakeswap-py/blob/main/docs/zh-CN_README.md">中文文档</a>
+
 
 ## ⚡ Quick Start
 
