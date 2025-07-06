@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/pancankeswap_py_logo.png" alt="pancankeswap_py_logo" width="80"/>
+  <img src="docs/images/pancankeswap_py_logo.png" alt="pancankeswap_py_logo" width="120"/>
 </p>
 
 
