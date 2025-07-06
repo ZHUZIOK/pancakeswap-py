@@ -1,6 +1,7 @@
-<div style="text-align: center;">
-    <img src="docs/images/pancankeswap_py_logo.png" alt="pancankeswap_py_logo" title="pancankeswap_py_logo" style="max-width: 20%; height: auto;">
-</div>
+<p align="center">
+  <img src="docs/images/pancankeswap_py_logo.png" alt="pancankeswap_py_logo" width="80"/>
+</p>
+
 
 ## pancakeswap-py  🍪🐍
 一个基于web3.py和Asyncio以及PancakeSwap V2/V3合约的Python库，包含创建池子、添加流动性、撤销流动性、查看流动性、Swap交易、WBNB/BNB转换等功能，V2/V3采用尽可能一致的语法，方便新手便捷的在BSC网络上进行DeFi操作。
