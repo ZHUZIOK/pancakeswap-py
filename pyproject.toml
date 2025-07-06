@@ -1,6 +1,6 @@
 [project]
 name = "pancakeswap-py"
-version = "0.1.4"
+version = "0.1.5"
 description = "A concise PancakeSwap V2/V3 Python library"
 readme = "README.md"
 authors = [
